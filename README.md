@@ -8,4 +8,4 @@ I am self-taught with over a decade of experience as a professional developer an
 
 **Limited**: Python, Angular, Meteor.js, Google Closure, Google App Scripting, NoSQL, PHP
 
-**Also**: Git, Github, VSCode, CLI, Storybook, web analytics platforms, Agile
+**Also**: Git, Github, VSCode, CLI, Storybook, web analytics platforms, Agile, Figma, Sketch
