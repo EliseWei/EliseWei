@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-I am self-taught with over a decade of experience as a professional developer and manager of developers. In addition to code, I also produce high-quality coders via mentorship, coaching, and education.
+I'm a software developer with 15 years professional experience coding, managing developers, and teaching others to code… often doing a couple of those things at once! My specialty is in front-end technologies, with a particular focus on web accessibility.
 
-**Expert**: Javascript, HTML, CSS, React, web accessibility, responsive, design systems
+**Expert**: JavaScript, TypeScript, CSS, HTML, React.​js, Accessibility, Responsive, Design ​Systems, Node.​js
 
-**Intermediate**: TypeScript, Sass, LESS, Node.js, XML, MySQL/SQL, REST APIs, testing
+**Capable**: Express, Relational ​DBs, SQL, REST ​APIs, Jest/​Vitest, Testing ​Library, Next.​js, Sass, LESS
 
-**Limited**: Python, Angular, Meteor.js, Google Closure, Google App Scripting, NoSQL, PHP
+**Limited**: Python, Electron, NoSQL, Microservices, Docker, AWS, Azure, Google ​Cloud ​Platform, CI/​CD
 
-**Also**: Git, Github, VSCode, CLI, Storybook, web analytics platforms, Agile, Figma, Sketch
+**Other tools**: Agile, Git, GitHub, VS ​Code, CLI, Storybook, Web ​Analytics, Figma, Sketch
+
+**Core skills**: Debugging, Code ​Review, Documentation, Delivering ​Feedback, Communication, Coaching ​&​ ​Mentoring, Project ​Management, Creative ​Problem ​Solving, Leadership, Facilitation
